@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>property_212.jpg</filename>
+	<path>C:\Users\samly\anaconda3\envs\training\Lib\site-packages\tensorflow\workspace\classification\images\property_212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vinyl banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1230</xmin>
+			<ymin>346</ymin>
+			<xmax>1367</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>property sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>997</xmin>
+			<ymin>325</ymin>
+			<xmax>1084</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

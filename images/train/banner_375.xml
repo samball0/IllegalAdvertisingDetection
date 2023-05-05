@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>banner_375.jpg</filename>
+	<path>C:\Users\samly\anaconda3\envs\training\Lib\site-packages\tensorflow\workspace\classification\images\banner_375.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5248</width>
+		<height>3936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vinyl banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3952</xmin>
+			<ymin>83</ymin>
+			<xmax>4169</xmax>
+			<ymax>2057</ymax>
+		</bndbox>
+	</object>
+</annotation>

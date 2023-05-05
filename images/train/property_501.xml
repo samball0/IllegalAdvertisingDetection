@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>property_501.jpg</filename>
+	<path>C:\Users\samly\anaconda3\envs\training\Lib\site-packages\tensorflow\workspace\classification\images\property_501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3342</width>
+		<height>3342</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>property sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>348</ymin>
+			<xmax>2713</xmax>
+			<ymax>3080</ymax>
+		</bndbox>
+	</object>
+</annotation>
